@@ -5,12 +5,12 @@
 1) Software Engineering
 2) Competitive Programming
 3) Devopps
-  A) Git
-  B) Jenkins
-  C) Docker
-  D) CI/CD
-  E) Load Balancer
-  F) Auto Scalling
+  1) Git
+  2) Jenkins
+  3) Docker
+  4) CI/CD
+  5) Load Balancer
+  6) Auto Scalling
 5) Language Related
 6) Database
 7) Security
